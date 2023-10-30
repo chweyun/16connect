@@ -1,0 +1,170 @@
+* {
+    background-color: #292929;
+    font-family: "Apple SD Gothic Neo";
+    
+}
+
+.logoBox {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btmBox {
+    height: 50vh;
+}
+
+.inputBox {
+    height: 40%;
+    min-height: 260px;
+}
+
+input::placeholder {
+    opacity: 1;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.idBox, .pwBox{
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.idInput {
+    height: 70px;
+    width: 500px;
+    border-radius: 6px;
+    background-color: #3C3C3C;
+    border: 1px solid #757575;
+    color: #757575;
+}
+.pwInput {
+    height: 70px;
+    width: 500px;
+    border-radius: 6px;
+    background-color: #3C3C3C;
+    border: 1px solid #757575;
+    color: #757575;
+}
+
+.btnBox {
+    height: 60%;
+    min-height: 350px;
+}
+
+.loginBox, .joinBox {
+    height: 24%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginBtn {
+    height: 60px;
+    width: 250px;
+    border-radius: 28px;
+    background-color: #FA6262;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 800;
+    border: none;
+}
+
+.joinBtn {
+    height: 60px;
+    width: 250px;
+    border-radius: 28px;
+    background-color: #FAD755;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 800;
+    border: none;
+}
+
+/* * {
+    background-color: #292929;
+    font-family: "Apple SD Gothic Neo";
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.logoBox {
+    margin-bottom: -30%;
+}
+
+input::placeholder {
+    opacity: 1;
+    padding: 20px;
+    font-size: 16px;
+}
+
+.inputBox {
+    display: block;
+    height: 25vh;
+}
+.idBox, .pwBox{
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.idInput {
+    height: 48px;
+    width: 280px;
+    border-radius: 6px;
+    background-color: #3C3C3C;
+    border: 1px solid #757575;
+    color: #757575;
+    margin-bottom: -4%;
+}
+.pwInput {
+    height: 48px;
+    width: 280px;
+    border-radius: 6px;
+    background-color: #3C3C3C;
+    border: 1px solid #757575;
+    color: #757575;
+    margin-top: -4%;
+}
+
+.btnBox {
+    display: block;
+    height: 25vh;
+    bottom: 0;
+}
+
+.loginBox, .joinBox {
+    height: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginBtn {
+    height: 48px;
+    width: 214px;
+    border-radius: 28px;
+    background-color: #FA6262;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: none;
+}
+
+.joinBtn {
+    height: 48px;
+    width: 214px;
+    border-radius: 28px;
+    background-color: #FAD755;
+    color: #FFFFFF;
+    font-size: 16px;
+    border: none;
+} */

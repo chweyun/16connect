@@ -1,0 +1,55 @@
+.topBar {
+    background-color: #3C3C3C;
+    height: 10vh;
+    min-height: 140px;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.backBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    height: 100%;
+    width: 16%;
+    background-color: transparent;
+}
+
+.backIcon {
+    background-color: transparent;
+}
+
+.title {
+    height: 100%;
+    margin-right: 16%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #CECECE;
+    background-color: transparent;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.middleBox {
+    height: 50vh;
+}
+
+.btnBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.nextBtn {
+    margin-top: 90%;
+}
